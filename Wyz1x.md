@@ -1,18 +1,29 @@
-<!-- Dark mode README starts here -->
+<!--README starts here -->
 
-<h1 align="center" style="color:#00ffff; font-family: 'Fira Code', monospace;">console.log("Hello, I'm Wyz1x!");</h1>
+<h1 align="center" style=" font-family: 'Fira Code', monospace;">console.log("Hello, I'm Wyz1x!");</h1>
 
-<p align="center" style="font-family: 'Fira Code', monospace; color: #c0c0c0;">
+```ts
   💻 Developer • ⚙️ Code Optimizer • 🚀 Always Learning
-</p>
+```
 
 ---
 
 ### 🧠 About Me
 ```ts
 const me = {
-  stack: ["C++", "JavaScript", "React.js", "Fabric modding"],
-  tools: ["VS Code", "Git", "GitHub", "Arclight"],
+  stack: ["JavaScript", "React.js", "little bit of C++"],
+  tools: ["VS Code", "Git", "GitHub"],
   focus: "Clean, fast, and readable code",
-  currentlyLearning: "Advanced React patterns",
+  currentlyLearning: "Python",
+  age: 13
 };
+```
+
+### 🏆 Goals
+```ts
+const myGoals = {
+  goalOne: "find a job :)" ,
+  goalTwo: "learn english",
+  goalThree: "learn python"
+};
+```
