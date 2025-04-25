@@ -27,3 +27,5 @@ const myGoals = {
   goalThree: "learn python"
 };
 ```
+### 🥇 Github stats
+![Wyz1x's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wyz1x&show_icons=true&theme=radical)
