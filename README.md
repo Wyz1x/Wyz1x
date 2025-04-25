@@ -1,6 +1,6 @@
 <!--README starts here -->
 
-<h1 align="center" style=" font-family: 'Fira Code', monospace;">console.log("Hello, I'm Wyz1x!");</h1>
+<h1 style=" font-family: 'Fira Code', monospace;">console.log("Hello, I'm Wyz1x!");</h1>
 
 ```ts
   💻 Developer • ⚙️ Code Optimizer • 🚀 Always Learning
