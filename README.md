@@ -3,7 +3,7 @@
 <h1 style=" font-family: 'Fira Code', monospace;">console.log("Hello, I'm Wyz1x!");</h1>
 
 ```ts
-<Wyz1x> 💻 Developer • ⚙️ Code Optimizer • 🚀 Always Learning </wyz1x>
+<wyz1x> 💻 Developer • ⚙️ Code Optimizer • 🚀 Always Learning </wyz1x>
 ```
 
 ---
