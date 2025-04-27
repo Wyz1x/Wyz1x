@@ -11,7 +11,7 @@
 ### 🧠 About Me
 ```ts
 const me = {
-  stack: ["JavaScript", "React.js", "little bit of C++"],
+  stack: ["JavaScript", "React.js", "little bit of Python"],
   tools: ["VS Code", "Git", "GitHub"],
   focus: "Clean, fast, and readable code",
   currentlyLearning: "Python",
