@@ -15,7 +15,6 @@ const me = {
   tools: ["VS Code", "Git", "GitHub"],
   focus: "Clean, fast, and readable code",
   currentlyLearning: "Python",
-  age: 13
 };
 ```
 
