@@ -1,9 +1,9 @@
 <!--README starts here -->
 
-<h1 style=" font-family: 'Fira Code', monospace;">console.log("Hello, I'm Wyz1x!");</h1>
+<h1 style=" font-family: 'Fira Code', monospace;">console.log("Hello, I'm WyzzI!");</h1>
 
 ```ts
-<wyz1x> 💻 Developer • ⚙️ Code Optimizer • 🚀 Always Learning </wyz1x>
+<wyzzI> 💻 Developer • ⚙️ Code Optimizer • 🚀 Always Learning </wyzzI>
 ```
 
 ---
